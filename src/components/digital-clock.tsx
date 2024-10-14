@@ -39,7 +39,7 @@ export default function DigitalClockComponent() {
         <div className="flex flex-col items-center justify-center">
           {/* Header with title */}
           <div className="text-4xl text-orange-800 font-bold tracking-tight uppercase ">
-            DItital Clock
+            Digital Clock
           </div>
           {/* Description */}
           <div className="text-sm text-gray-500 text-center dark:text-gray-400 mb-4">
